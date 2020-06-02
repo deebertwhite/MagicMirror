@@ -1,7 +1,8 @@
 html {
   cursor: none;
   overflow: hidden;
-  background: #000;
+  background-image: url(source.gif)
+  background-color: white;
 }
 
 ::-webkit-scrollbar {
