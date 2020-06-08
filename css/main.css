@@ -2,7 +2,9 @@ html {
   cursor: none;
   overflow: hidden;
   background-image: url(source.gif);
-  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center; 
 }
 
 ::-webkit-scrollbar {
